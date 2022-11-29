@@ -1,4 +1,8 @@
+# PROJECT TITLE
+ -The project title for the following three projects is:
+    -code_challenges
 # NET SALARY CALCULATOR
+
    # Description
   This program gets the input salary of an employee and calculate the net salary.
 # SPEED DETECTOR
