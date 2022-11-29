@@ -5,12 +5,16 @@ This program gets the input of the speed of a car and awards the driver demerit 
 # Getting Started
   -Open command line terminal on your computer.
   -clone the repository by using the following:
+  
   git clone git@github.com:Chepkoech1/Code_challenge_one.git
-  -change directory to the repository folder
+  
+  -change directory to the repository folder:
+  
     cd code_challenges
+    
 # Running the appication
-    -open in live server
- -open in visual studio code
+   -open in live server
+   -open in visual studio code
     code .
 # Authors
         -Sandra
@@ -22,11 +26,13 @@ This program gets the input of the speed of a car and awards the driver demerit 
 # Getting Started
   -Open command line terminal on your computer.
   -clone the repository by using the following:
+  
   git clone git@github.com:Chepkoech1/Code_challenge_one.git
+  
   -change directory to the repository folder
     cd code_challenges
 # Running the appication
-    -open in live server
+ -open in live server
  -open in visual studio code
     code .
 # Authors
