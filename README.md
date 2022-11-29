@@ -46,9 +46,9 @@ This program gets the input of the speed of a car and awards the driver demerit 
 # Running the appication
  -open in live server
  -open in visual studio code
-    code .
+    code .87
 # Project set up
-In order to check if the project is working, open in live server in index.html file  
+In order to check if the project is working, open in live server in index.html file.
 # Authors
         -Sandra
 # License
