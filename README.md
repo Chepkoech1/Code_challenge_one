@@ -24,7 +24,7 @@ This program gets the input of the speed of a car and awards the driver demerit 
 # Authors
         -Sandra
 # License
-        -ISL license
+        -ISC license
 
 # STUDENT GRADE GENERATOR
  # Description
@@ -46,4 +46,4 @@ In order to check if the project is working, open in live server in index.html f
 # Authors
         -Sandra
 # License
-        -ISL license
+        -ISC license
